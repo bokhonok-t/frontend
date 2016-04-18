@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html >
+<html>
   <head>
     <meta charset="utf-8">
     <title>Главная</title>
     <? include( "/include/head.php" ); ?>
   </head>
-  <body >
+  <body>
     <? include( "/include/header.php" ); ?>
     <div class="wrapper">
       <? include( "/include/menu.php" ); ?>
@@ -16,8 +16,9 @@
           <a href="#process" class="content_load_nav">В работе</a>
           <a href="#errors" class="content_load_nav">Ошибки</a>
         </div>
-        <div class="content_load"></div>
-
+        <div class="content_load">
+          <!-- <h4>Choose one of tabs...</h4> -->
+        </div>
       </div>
     </div>
   </body>

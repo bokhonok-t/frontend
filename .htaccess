@@ -1,0 +1,3 @@
+RewriteCond %{REQUEST_URI} /sample\.php$
+RewriteCond %{QUERY_STRING} ^id=1$
+RewriteRule .* /#all [R=301,L]

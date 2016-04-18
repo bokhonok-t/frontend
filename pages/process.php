@@ -1,0 +1,20 @@
+<table>
+  <thead>
+    <td>№</td>
+    <td>Название</td>
+    <td>Программа</td>
+    <td>Статус</td>
+    <td>Время</td>
+    <td>Остановить</td>
+    <td>Удалить</td>
+  </thead>
+  <tbody>
+    <td>15</td>
+    <td>16</td>
+    <td>17</td>
+    <td>18</td>
+    <td>19</td>
+    <td>20</td>
+    <td>21</td>
+  </tbody>
+</table>
